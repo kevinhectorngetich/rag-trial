@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+backup
+.env
+chroma_*
+chroma
+llama_env
