@@ -13,8 +13,8 @@ This project demonstrates the use of Retrieval-Augmented Generation (RAG) with L
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/spotify-mpesa-rag-agent.git
-    cd spotify-mpesa-rag-agent
+    git clone https://github.com/kevinhectorngetich/rag-trial.git
+    cd rag-trial
     ```
 
 2. **Create and activate a virtual environment:**
