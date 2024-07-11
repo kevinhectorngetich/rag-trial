@@ -57,7 +57,7 @@ This project demonstrates the use of Retrieval-Augmented Generation (RAG) with L
     ```
 
 2. **Populate the Mpesa database:**
-
+***Ensure you have your mpesa statement in the data section, the password will be asked in the cli***
     ```sh
     python populate_mpesadb.py --reset
     ```
